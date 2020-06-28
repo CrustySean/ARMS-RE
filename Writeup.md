@@ -27,7 +27,7 @@ ARMS Demo / ARMS DEMO (kiosk), have some rest of a probably debug settings 🔧
 
 The "secret" menu has was used for:
 
-- Selecting the Stage (_probably used for Stages tests_)
+- "Stage Selection" (_probably used for Stages tests_)
 
 - "NoAttackCOM (aka dummyCPU)" (_probably used to test the attack power of the main character, or the defense power of the CPU/opponent_)
 
