@@ -67,6 +67,6 @@ The "secret" menu has was used for:
   
   # Credits
   
-  - [Nintendo](nintendo.com) --> ARMS game and demos
+  - [Nintendo](nintendo.com) --> ARMS game, demos and image
   - [CrustySean](https://discord.gg/2gjrSsP) --> writeup
   - [Shadow](https://github.com/shadowninja108) --> help in RE
