@@ -25,7 +25,7 @@ ARMS Demo / ARMS DEMO (kiosk), have some rest of a probably debug settings 🔧
 
 # Contents
 
-The "secret" menu has was used for:
+The "secret" menu was used for:
 
 - "Stage Selection" (_probably used for Stages tests_)
 
